@@ -1,5 +1,5 @@
-EventRecommender
-================
+Bobi Pu, bobi.pu@usc.edu
+
 
 Solution for online competition on Kaggle.com
 
