@@ -1,7 +1,8 @@
+Solution for online competition on Kaggle.com
+---------------------------------------------
+
 Bobi Pu, bobi.pu@usc.edu
 
-
-Solution for online competition on Kaggle.com
 
 For competition information, please check: http://www.kaggle.com/c/event-recommendation-engine-challenge
 
